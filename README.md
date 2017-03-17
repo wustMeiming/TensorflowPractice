@@ -12,7 +12,7 @@
 ## 练习列表
 
 - [TensorFlow练习1: 对评论进行分类](TensorFlow练习1-对评论进行分类/)
-- [TensorFlow练习2: 对评论进行分类]()
+- [TensorFlow练习2: 对评论进行分类](TensorFlow练习2-对评论进行分类/)
 - [TensorFlow练习3: RNN, Recurrent Neural Networks]()
 - [TensorFlow练习4: CNN, Convolutional Neural Networks]()
 - [TensorFlow练习5: 训练一个简单的游戏AI（Deep Q Network）]()
